@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW0r53QS/Chacra-tv-ICON.png",Chacra TV
+https://g1.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2dYGZzx/Garage-TV-Icon.png",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39qNGK7w/Canal-E-Icon.png",Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
